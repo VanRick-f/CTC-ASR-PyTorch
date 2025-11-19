@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+
+# Model checkpoints
+*.pth
+*.pt
+*.txt
